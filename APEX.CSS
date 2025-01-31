@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(182, 226, 193, 0.789);
+}
+header{
+    margin-top: 0%;
+    margin-left: -2%;
+    margin-right:-2% ;
+    background-color: white;
+    z-index: 9999;
+}
+.a{
+    display: flex;
+}
+.b{
+  padding-left: 10%;
+}
+.bb{
+    padding-left: 4%;
+  }
+#c{
+    font-size: large;
+}
+button{
+    background-color: aqua;
+    font-size: x-large;
+}
